@@ -1,6 +1,6 @@
-# **Gen AI Chess App**
+# **Chess Wizard**
 
-**Gen AI Chess App** is a visually engaging and interactive chess game built with Python and Streamlit. Designed for intuitive gameplay, the app allows users to move pieces by clicking, view real-time game stats, and track their move history. With highlighted legal moves, it offers an immersive chess experience suitable for beginners and advanced players alike.
+**Chess Wizard** is a visually engaging and interactive chess game built with Python and Streamlit. Designed for intuitive gameplay, the app allows users to move pieces by clicking, view real-time game stats, and track their move history. With highlighted legal moves, it offers an immersive chess experience suitable for beginners and advanced players alike.
 
 ---
 
