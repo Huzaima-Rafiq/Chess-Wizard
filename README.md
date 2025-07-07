@@ -69,8 +69,6 @@ This will open the app in your browser at `http://localhost:8501`.
 ## **Folder Structure**
 
 ```
-gen-ai-chess-app/
-│
 ├── app.py               # Main application file
 ├── requirements.txt     # Dependency list
 ├── README.md            # Project documentation
